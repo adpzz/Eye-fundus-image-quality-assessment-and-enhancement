@@ -26,7 +26,7 @@ The annotation set provided in `Dataset\` was used in our paper [A Conditional G
 
 ### Citing this work
 
-If you find this annotation set and information useful in your research, please consider citing:
+If you find useful both this annotation set and information in your research, please consider citing:
     
     @inproceedings{perez2020conditional,
     title={A Conditional Generative Adversarial Network-Based Method for Eye Fundus Image Quality Enhancement},
