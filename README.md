@@ -1,4 +1,7 @@
 # Eye fundus image quality assessment and enhancement
+
+Files for my master thesis, titled "A Deep Learning Model to Assess and Enhance Eye Fundus Image Quality".
+
 This repository contains information related to research both for eye fundus image quality assessment and enhancement.
 
 ## Quality Assesment
@@ -7,7 +10,7 @@ The quality assesment research is presented in our paper [A Lightweight Deep Lea
 
 ### Citing this work
 
-If you find this information useful in your research, please consider citing:
+If you find this information or this repository useful in your research, please consider citing:
     
     @inproceedings{perez2020lightweight,
     title={A lightweight deep learning model for mobile eye fundus image quality assessment},
