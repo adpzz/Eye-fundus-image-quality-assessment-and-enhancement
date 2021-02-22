@@ -1,4 +1,4 @@
-# Eye fundus image quality assessment and enhancement Annotations
+# Eye fundus image quality assessment and enhancement - Annotations
 
 Files for my master thesis, titled "A Deep Learning Model to Assess and Enhance Eye Fundus Image Quality".
 
